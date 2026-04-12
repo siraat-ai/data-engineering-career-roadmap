@@ -76,9 +76,13 @@ spark.stop()
 👉 You demonstrate:
 
 ✔️ Data ingestion
+
 ✔️ Data transformation
+
 ✔️ Aggregation
+
 ✔️ ETL pipeline thinking
+
 ✔️ PySpark basics
 
 ---
