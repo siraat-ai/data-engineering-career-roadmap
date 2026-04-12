@@ -1,3 +1,5 @@
+# what is apache beam and its how its differ with apache spark
+
 Great question 👍 — this is **advanced but very important** for real data engineering.
 
 ---
