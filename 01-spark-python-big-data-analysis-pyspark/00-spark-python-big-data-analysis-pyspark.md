@@ -1,6 +1,4 @@
 https://www.coursera.org/specializations/spark-python-big-data-analysis-pyspark
-Bhai 🔥 — ab main **bilkul precise filter** de raha hoon
-👉 taake aap **2 din mein sirf woh seekho jo job ke kaam ka hai**
 
 ---
 
