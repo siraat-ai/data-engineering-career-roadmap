@@ -9,6 +9,7 @@ Great question 👍 — this is **advanced but very important** for real data en
 👉 Apache Beam is:
 
 **A programming model (framework) to define data pipelines**
+
 —not an engine that runs them.
 
 ---
@@ -17,6 +18,7 @@ Great question 👍 — this is **advanced but very important** for real data en
 
 👉
 **Apache Beam = “How to write pipelines”**
+
 **Apache Spark = “How to run pipelines”**
 
 ---
