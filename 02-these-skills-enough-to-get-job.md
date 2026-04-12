@@ -106,12 +106,15 @@ You should be able to explain:
 👉 Companies do NOT expect:
 
 ❌ expert Spark
+
 ❌ deep ML
 
 👉 They expect:
 
 ✔️ basic pipeline knowledge
+
 ✔️ ability to learn
+
 ✔️ real project
 
 ---
@@ -133,6 +136,7 @@ You should be able to explain:
 # 🎯 Final Answer
 
 👉 YES — your stack is enough
+
 👉 Add 1 PySpark project → you are ready
 
 ---
