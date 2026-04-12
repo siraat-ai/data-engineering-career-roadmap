@@ -7,8 +7,11 @@
 👉 This is GOLD 👇
 
 BigQuery ✔️ (you have)
+
 PySpark (Dataproc) 🔥
+
 ETL pipelines ✔️
+
 Data modeling (Star schema)
 
 ---
