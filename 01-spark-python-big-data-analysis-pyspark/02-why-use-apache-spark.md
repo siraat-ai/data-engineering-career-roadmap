@@ -7,7 +7,9 @@
 # 🎯 Short Answer
 
 ✔️ Yes, Apache Spark is third-party (open-source)
+
 ✔️ But it is an **industry-standard tool**
+
 ✔️ And Google Cloud fully supports and integrates it
 
 ---
